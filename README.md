@@ -24,4 +24,4 @@ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
  - High discounts (above ~30%) are often associated with negative profit.
  - The Consumer segment generates higher total profit than other segments.
 
-![Alt Text](retail-profit-analysis/images/Discount vs Profit Scatterplot Graph Analysis.png)
+![images](retail-profit-analysis/images/Discount vs Profit Scatterplot Graph Analysis.png)
